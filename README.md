@@ -18,7 +18,7 @@
 > ([@dschadow](https://github.com/dschadow)) —
 > [The best juice shop on the whole internet!](https://twitter.com/shehackspurple/status/907335357775085568)
 > ([@shehackspurple](https://twitter.com/shehackspurple)) —
-> [Actually the most bug-free vulnerable application in existence!](https://youtu.be/TXAztSpYpvE?t=26m35s)
+> [Actually * the most bug-free vulnerable application in existence!](https://youtu.be/TXAztSpYpvE?t=26m35s)
 > ([@vanderaj](https://twitter.com/vanderaj)) —
 > [First you 😂😂then you 😢](https://twitter.com/kramse/status/1073168529405472768)
 > ([@kramse](https://twitter.com/kramse)) —
